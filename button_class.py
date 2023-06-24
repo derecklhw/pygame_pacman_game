@@ -16,7 +16,7 @@ class Button(object):
         self.hovered = False
         self.function = function
         self.text = text
-        self.font = pygame.font.Font(FONT, BUTTON_TEXT_SIZE, bold=True)
+        self.font = pygame.font.Font(FONT, BUTTON_TEXT_SIZE)
 
     # function to determine if the mouse pos collide with the button width and height
     def update(self):
