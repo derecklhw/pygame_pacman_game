@@ -2,6 +2,10 @@
 
 This is a simple implementation of the classic Pacman game using Pygame.
 
+![Home](asset/images/home.png)
+
+![Game](asset/images/game.png)
+
 ## Installation
 
 1. Clone the repository:
