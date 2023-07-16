@@ -9,21 +9,21 @@ This is a simple implementation of the classic Pacman game using Pygame.
 ## Installation
 
 1. Clone the repository:
-```bash
-git clone https://github.com/derecklhw/pygame_pacman_game.git
-```
+    ```bash
+    git clone https://github.com/derecklhw/pygame_pacman_game.git
+    ```
 
 3. Install the required dependencies:
 
-```bash
-pip install pygame
-```
+    ```bash
+    pip install pygame
+    ```
 
 3. Run the game:
 
-```bash
-python main.py
-```
+    ```bash
+    python main.py
+    ```
 
 ## How to Play
 
